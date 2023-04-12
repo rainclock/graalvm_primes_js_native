@@ -1,8 +1,9 @@
 # Quarkus with native graalvm prime generation (js and native comparation)
 
-This project uses Quarkus and Graalvm JS. There are 2 apis: 
+This project uses Quarkus and Graalvm JS. There are 3 apis: 
 
 - primes/js/:count
+- primes/wasm/:count
 - primes/native/:count
 
 Usefull to compare js wrapper and native graalvm
